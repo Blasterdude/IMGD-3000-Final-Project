@@ -1,0 +1,7 @@
+frames 1
+width 20
+height 1
+color cyan
+Powerup = Big Paddle
+end
+eof

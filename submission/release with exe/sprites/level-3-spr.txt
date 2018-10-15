@@ -1,0 +1,7 @@
+frames 1
+width 9
+height 1
+color cyan
+Level = 3
+end
+eof
